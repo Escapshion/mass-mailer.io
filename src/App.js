@@ -5,6 +5,7 @@ import Form from "./components/Form";
 import { Row, Col } from "react-bootstrap";
 import About from "./components/About";
 import Footer from "./components/Footer";
+import Quill from 'quill';
 
 function App() {
   return (
